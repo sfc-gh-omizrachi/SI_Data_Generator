@@ -1,0 +1,5 @@
+name: SI_DEMO_BUILDER
+channels:
+- snowflake
+dependencies:
+- streamlit=1.50.0
