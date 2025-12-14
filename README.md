@@ -2,6 +2,23 @@
 
 Generate complete, AI-powered demo environments for Snowflake Cortex Analyst, Cortex Search, and Snowflake Intelligence in minutes. This Streamlit app creates realistic structured and unstructured data, semantic views, and optional agent tooling tailored to a customer’s industry and use cases.
 
+## What This App Does
+
+The SI Data Generator creates complete demo environments that showcase Snowflake's AI capabilities:
+
+- 🤖 AI-Generated Demo Ideas: Uses Cortex LLM to create 3 tailored demo scenarios based on customer information
+- 📊 Realistic Structured Data: Generates business-relevant tables with proper relationships and constraints
+- 🔍 Searchable Unstructured Data: Creates text chunks optimized for semantic search
+- 🔗 Semantic Views: Builds AI-ready views with relationships for Cortex Analyst
+- 🔎 Cortex Search Services: Configures semantic search services for document retrieval
+
+## 🚀 Key Features
+
+### 🎨 Intelligent Demo Generation
+- Customer-Specific: Tailors demos based on company URL, team members, and use cases
+- Industry-Aware: Generates relevant scenarios for e-commerce, healthcare, financial services, etc.
+- AI-Powered: Uses Snowflake Cortex LLM to create realistic business contexts
+
 ## What this app creates
 - **AI‑tailored demo scenarios** from customer context (company URL, audience, use cases)
 - **Structured tables** with realistic business data and join-ready keys (ENTITY_ID)
